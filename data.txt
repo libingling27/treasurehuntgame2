@@ -1,0 +1,3 @@
+library: A place filled with ancient books and knowledge.
+temple: A sacred place where treasures are hidden.
+guardian: A mythical creature guarding the treasure.
